@@ -1,4 +1,4 @@
-Repository moved to [codeberg.org/randogoth/psithemius.git](https://codeberg.org/randogoth/psithemius.git)
+Repository moved to [code.randogoth.com/randogoth/psithemius.git](https://code.randogoth.com/randogoth/psithemius.git)
 
 # Pocket Psithemius
 
